@@ -11,14 +11,14 @@ Our dogs do so much for us and our mental health, and there's no better way to g
 
 We want users to be able to find parks and local meetup spots in order to provide better socialization opportunities and enrichment for their dogs. Users can locate and commune with fellow dog enthusiasts based on the category of dog (size, age, temperament, etc.) and activity and users in their area.
 ### Features
-Create unique dog-inspired events and invite desired companions
-Calendar Integrations
-Users will have the ability to create an account
-Users can be authenticated
-Add friends
-Search events and parks based on location - Google Maps
-Location-Based Weather - Google Maps
-Sort potential playmates by size, age, temperament, etc.
+Dog events: Create unique dog-inspired events and invite desired companions
+Calendar Integrations: Add events to calender
+User Login: Users will have the ability to create an account
+Authentication: Users can be authenticated
+Friend feature: Add friends
+Google maps: Search events and parks based on location
+Google maps: Location-Based Weather
+Sort: By potential playmates by size, age, temperament, etc.
 ### Technologies
 SQL
 HTML
