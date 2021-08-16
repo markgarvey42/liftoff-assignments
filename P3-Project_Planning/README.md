@@ -11,7 +11,7 @@ For this assignment, you'll create some initial plans for your project.
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 * Landing Page Wireframe
-  * ![](images/Landing_page.png)
+  * ![Alt text](P3-Project_Planning\images\Landing_page.png?raw=true "Optional Title")
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge9461ce257_0_0)
 * Login Page Wireframe
   * ![LoginPageImg](/images/Login.PNG)
