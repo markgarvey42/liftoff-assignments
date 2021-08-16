@@ -11,28 +11,28 @@ For this assignment, you'll create some initial plans for your project.
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 * Landing Page Wireframe
-  * ![LandingPageImg](P3-Project_Planning\images\Landing_page.PNG)
+  * ![LandingPageImg](/images/Landing_page.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge9461ce257_0_0)
 * Login Page Wireframe
-  * ![LoginPageImg](/Login.PNG)
+  * ![LoginPageImg](/images/Login.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.p)
 * Register Page Wireframe
-  * ![RegisterPageImg](/Register.PNG)
+  * ![RegisterPageImg](/images/Register.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge89fae4c4e_1_0)
 * Home Page Wireframe
-  * ![HomePageImg](/Home.PNG)
+  * ![HomePageImg](/images/Home.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge89fae4c4e_1_5)
 * Calender Page Wireframe
-  * ![CalenderPageImg](/Calender.PNG)
+  * ![CalenderPageImg](/images/Calender.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge89fae4c4e_1_10)
 * Add Dog Page Wireframe
-  * ![AddDogPageImg](/Add_Dog.PNG)
+  * ![AddDogPageImg](/images/Add_Dog.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge89fae4c4e_2_0)
 * Reviews Page Wireframe
-  * ![ReviewsPageImg](/Reviews.PNG)
+  * ![ReviewsPageImg](/images/Reviews.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge9461ce257_0_19)
 * Parks Page Wireframe
-  * ![ParksPageImg](/Parks.PNG)
+  * ![ParksPageImg](/images/Parks.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge9461ce257_0_28)
 
 
