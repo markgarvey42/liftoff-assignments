@@ -14,25 +14,25 @@ Include at least 3 wireframes here, adding images or files to your repository as
   * ![LandingPageImg](https://github.com/markgarvey42/liftoff-assignments/blob/master/P3-Project_Planning/images/Landing_page.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge9461ce257_0_0)
 * Login Page Wireframe
-  * ![LoginPageImg](/images/Login.PNG)
+  * ![LoginPageImg](https://github.com/markgarvey42/liftoff-assignments/blob/master/P3-Project_Planning/images/Login.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.p)
 * Register Page Wireframe
-  * ![RegisterPageImg](/images/Register.PNG)
+  * ![RegisterPageImg](https://github.com/markgarvey42/liftoff-assignments/blob/master/P3-Project_Planning/images/Register.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge89fae4c4e_1_0)
 * Home Page Wireframe
-  * ![HomePageImg](/images/Home.PNG)
+  * ![HomePageImg](https://github.com/markgarvey42/liftoff-assignments/blob/master/P3-Project_Planning/images/Home.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge89fae4c4e_1_5)
 * Calender Page Wireframe
-  * ![CalenderPageImg](/images/Calender.PNG)
+  * ![CalenderPageImg](https://github.com/markgarvey42/liftoff-assignments/blob/master/P3-Project_Planning/images/Calender.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge89fae4c4e_1_10)
 * Add Dog Page Wireframe
-  * ![AddDogPageImg](/images/Add_Dog.PNG)
+  * ![AddDogPageImg](https://github.com/markgarvey42/liftoff-assignments/blob/master/P3-Project_Planning/images/Add_Dog.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge89fae4c4e_2_0)
 * Reviews Page Wireframe
-  * ![ReviewsPageImg](/images/Reviews.PNG)
+  * ![ReviewsPageImg](https://github.com/markgarvey42/liftoff-assignments/blob/master/P3-Project_Planning/images/Reviews.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge9461ce257_0_19)
 * Parks Page Wireframe
-  * ![ParksPageImg](/images/Parks.PNG)
+  * ![ParksPageImg](https://github.com/markgarvey42/liftoff-assignments/blob/master/P3-Project_Planning/images/Parks.PNG)
   * [Link](https://docs.google.com/presentation/d/1ME1nKir682vL1V4zpgmKiTc6zswrW5MrvYKF4pJgLiM/edit#slide=id.ge9461ce257_0_28)
 
 
